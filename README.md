@@ -57,6 +57,9 @@
 ### **📁 증빙 자료:**
 (https://github.com/user-attachments/files/26479987/2.pdf)
 
+
+기술 회고: pdf 변환 후 pdf 링크 게시법 알지 못하였다.
+해결:ai에게 물어 new issue tap에서 파일 업로드 후 링크 얻었다.
 <br>
 
 ## 🟩 [2차 과제: V1.0] 입출력 + 리스트 + 조건문 - 향후 작성 예정
