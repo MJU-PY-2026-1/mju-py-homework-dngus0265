@@ -97,7 +97,7 @@ and 논리 연산자와 중첩 if문을 활용하여 평균 및 최고치 기준
 해결:기존 코드를 삭제함으로 해결
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * (https://github.com/user-attachments/files/26857609/-.Google.Docs.pdf)
   * [2차과제_실행결과.jpg]
 <br>
 
