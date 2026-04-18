@@ -97,8 +97,8 @@ and 논리 연산자와 중첩 if문을 활용하여 평균 및 최고치 기준
 해결:기존 코드를 삭제함으로 해결
      
 ### **📁 증빙 자료:**
-  * (https://github.com/user-attachments/files/26857609/-.Google.Docs.pdf)
-  * [2차과제_실행결과.jpg]
+  * (https://github.com/user-attachments/files/26857609/-.Google.Docs.pdf) -협업증거
+*(https://github.com/user-attachments/files/26857634/1.pdf)- 실행 결과
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
